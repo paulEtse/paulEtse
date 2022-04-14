@@ -5,7 +5,7 @@
 - 📫 How to reach me (Mail: fiagnonpaule@gmail.com)
 
 
-✨[Linkedin](https://www.linkedin.com/in/pauletse)    ✨[codingGame](https://www.codingame.com/profile/c4498eb5256ebefd6d833515e46bd95b8956604)    ✨[twitter](https://twitter.com/paulEtse99)
+✨[Linkedin](https://www.linkedin.com/in/pauletse)    ✨[CodingGame](https://www.codingame.com/profile/c4498eb5256ebefd6d833515e46bd95b8956604)    ✨[Twitter](https://twitter.com/paulEtse99)
 
 <!---
 paulEtse/paulEtse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
