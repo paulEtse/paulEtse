@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on onpensource projects
-- 📫 How to reach me (Mail: fiagnonpaule@gmail.com)
+- 📫 How to reach me (Mail: contact@pauletse.fr)
 
 
 ✨[Linkedin](https://www.linkedin.com/in/pauletse)    ✨[CodingGame](https://www.codingame.com/profile/c4498eb5256ebefd6d833515e46bd95b8956604)    ✨[Twitter](https://twitter.com/paulEtse99)
